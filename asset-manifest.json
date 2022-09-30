@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactuser/static/css/main.e6c13ad2.css",
+    "main.js": "/Reactuser/static/js/main.c82eb8a2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reactuser/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Reactuser/index.html",
+    "main.e6c13ad2.css.map": "/Reactuser/static/css/main.e6c13ad2.css.map",
+    "main.c82eb8a2.js.map": "/Reactuser/static/js/main.c82eb8a2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reactuser/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c82eb8a2.js"
+  ]
+}
